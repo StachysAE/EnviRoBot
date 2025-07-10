@@ -24,7 +24,7 @@ To accurately classify waste into categories such as plastic, metal, and glass u
 
 - **Accuracy:** 87.3%  
 - Trained on a labeled dataset of waste images  
-- Can be integrated into UAV/UGV systems for real-time waste detection
+- Can be integrated into UGV systems for real-time waste detection
 
 ---
 
